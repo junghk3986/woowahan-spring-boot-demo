@@ -8,5 +8,6 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
+		// 어떤 수정을 할까?
 	}
 }
