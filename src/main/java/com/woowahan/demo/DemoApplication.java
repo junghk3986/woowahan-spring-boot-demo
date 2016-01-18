@@ -9,6 +9,6 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 
-		System.out.println("Hello World");
+		System.out.println("i'm from korea");
 	}
 }
